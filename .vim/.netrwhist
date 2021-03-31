@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/hippcter'
+let g:netrw_dirhist_0='/home/hippcter/.vim/bundle/command-t'
+let g:netrw_dirhist_9='/home/hippcter/.vim/bundle'
+let g:netrw_dirhist_8='/home/hippcter/.vim/bundle/command-t'
+let g:netrw_dirhist_7='/home/hippcter/.vim/bundle'
+let g:netrw_dirhist_6='/home/hippcter/.vim/bundle/YouCompleteMe'
+let g:netrw_dirhist_5='/home/hippcter/.vim/bundle'
+let g:netrw_dirhist_4='/home/hippcter/.vim'
+let g:netrw_dirhist_3='/home/hippcter'
+let g:netrw_dirhist_2='/'
